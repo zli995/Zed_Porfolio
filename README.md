@@ -6,4 +6,4 @@
 - Built a model which provides accurate estimation of men’s bodyfat with only requiring 4 input values for prediction.
 - Achieved user-interface by creating a [Shiny App](https://lofia.shinyapps.io/628_hw2/) that run our bodyfat calculator in real-time.
 
-![](bodyfat.png){ width=50% }
+![](bodyfat.png)
