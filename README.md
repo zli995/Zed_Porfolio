@@ -7,3 +7,5 @@
 - Achieved user-interface by creating a [Shiny App](https://lofia.shinyapps.io/628_hw2/) that run our bodyfat calculator in real-time.
 
 ![](bodyfat.png)
+
+## [Project 2: Airbnb Data Analysis](file:///C:/Users/1/Desktop/%E6%96%87%E4%BB%B6%E5%A4%B9/Fall%202019/STAT605/final%20project/Report.html)
